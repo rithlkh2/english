@@ -3,6 +3,7 @@
 2. Which
 -> I buy a laptop which has a big screen.
 3. Whose
+-> I have my own app in my iPhone whose develop after graduating IOS courses.
 4. that
 -> I have learned Swift that is a popular language for build mobile system.
 5. Where
